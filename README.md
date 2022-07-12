@@ -1,0 +1,1 @@
+This project is to practice and demonstrate HTML skills learnt in the past 2 evenings. In addition, some tasks are performed in terminal to handle moving, creating, copying files and uploading to github.
